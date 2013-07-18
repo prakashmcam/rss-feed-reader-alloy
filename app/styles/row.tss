@@ -1,0 +1,42 @@
+"#row": {
+backgroundColor: "#fff",
+    height: Ti.UI.SIZE,
+    layout:"vertical",
+    className: 'itemRow'
+}
+
+
+"#title": {
+    height: Ti.UI.SIZE,
+    top:'0dp',
+    font: {
+        fontSize: '16dp'
+    },
+    left: '10dp',
+    right: '3dp',
+    touchEnabled: false
+}
+"#description": {
+    height: Ti.UI.SIZE,
+    top:'5dp',
+    font: {
+        fontSize: '12dp'
+    },
+    left: '15dp',
+    right: '3dp',
+    touchEnabled: false
+}
+
+
+"#date": {
+    height: Ti.UI.SIZE,
+    width: '68dp',
+    left: '5dp',
+    top : '5dp',
+    color: '#444',
+    font: {
+        fontSize: '12dp'
+    },
+    textAlign: 'center',
+    touchEnabled: false
+}

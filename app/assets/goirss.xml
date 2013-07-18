@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+
+		<title>Government of India Web Directory : Rss Feed</title>
+		<link>http://goidirectory.gov.in/rss</link>
+		<category>New Additions</category>
+		<description>Government of India Web Directory</description>
+		<language>en-us</language>
+		<pubDate>Wed, 17 Jul 2013 16:00:01 +0530</pubDate>
+		<lastBuildDate>Wed, 17 Jul 2013 16:00:01 +0530</lastBuildDate>
+		<docs>http://goidirectory.gov.in/rss</docs>
+		<generator>GOI Editor 2.0</generator>
+		<managingEditor>goidirectory@gov.in (Goi Directory Admin)</managingEditor>
+		<webMaster>goidirectory@gov.in (Goi Directory Admin)</webMaster>
+		<ttl>10</ttl>
+		<image>
+
+			<url>http://goidirectory.gov.in/images/logo.png</url>
+			<title>Government of India Web Directory</title>
+			<link>http://goidirectory.gov.in/index.php</link>
+			<description>Government of India Web Directory</description>
+			<width>111</width>
+			<height>30</height>
+
+		</image>
+		<atom:link href="http://goidirectory.gov.in/rss/new_additions_rss.php" rel="self" type="application/rss+xml" />
+		<item>
+
+			<title>Solar Energy Corporation of India, New Delhi</title>
+			<link>http://seci.gov.in</link>
+			<guid>http://seci.gov.in</guid>
+			<category>Union Government</category>
+			<description>Solar Energy Corporation of India, New Delhi</description>
+			<pubDate>Mon, 15 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Innovation Clusters - creating collaborative ecosystems</title>
+			<link>http://www.innovationclusters.gov.in</link>
+			<guid>http://www.innovationclusters.gov.in</guid>
+			<category>Union Government</category>
+			<description>Innovation Clusters - creating collaborative ecosystems</description>
+			<pubDate>Mon, 15 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Common Cadre Wing of Personnel and Administrative Reforms Department, West Bengal</title>
+			<link>http://ssccw.wbpar.gov.in</link>
+			<guid>http://ssccw.wbpar.gov.in</guid>
+			<category>State Government</category>
+			<description>Common Cadre Wing of Personnel and Administrative Reforms Department, West Bengal</description>
+			<pubDate>Mon, 15 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Central Excise and Service Tax Commissionerate, Ludhiana, Punjab</title>
+			<link>http://centralexciseludhiana.gov.in</link>
+			<guid>http://centralexciseludhiana.gov.in</guid>
+			<category>Union Government</category>
+			<description>Central Excise and Service Tax Commissionerate, Ludhiana, Punjab</description>
+			<pubDate>Mon, 15 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Haryana State Disaster Management Authority</title>
+			<link>http://hdma.gov.in</link>
+			<guid>http://hdma.gov.in</guid>
+			<category>State Government</category>
+			<description>Haryana State Disaster Management Authority</description>
+			<pubDate>Mon, 15 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Central Government Health Scheme (CGHS), Jaipur, Rajasthan</title>
+			<link>http://cghsjaipur.nic.in</link>
+			<guid>http://cghsjaipur.nic.in</guid>
+			<category>Union Government</category>
+			<description>Central Government Health Scheme (CGHS), Jaipur, Rajasthan</description>
+			<pubDate>Wed, 10 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Saranda Development Plan, West Singhbhum, Jharkhand</title>
+			<link>http://saranda.nic.in</link>
+			<guid>http://saranda.nic.in</guid>
+			<category>State Government</category>
+			<description>Saranda Development Plan, West Singhbhum, Jharkhand</description>
+			<pubDate>Tue, 09 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Project Management Information System (PMIS), Jawaharlal Nehru National Urban Renewal Mission</title>
+			<link>http://pmis-jnnurm.nic.in</link>
+			<guid>http://pmis-jnnurm.nic.in</guid>
+			<category>Union Government</category>
+			<description>Project Management Information System (PMIS), Jawaharlal Nehru National Urban Renewal Mission</description>
+			<pubDate>Tue, 09 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Atomic Energy Central School, Narwapahar, Jharkhand</title>
+			<link>http://aecsnarwapahar.nic.in</link>
+			<guid>http://aecsnarwapahar.nic.in</guid>
+			<category>Union Government</category>
+			<description>Atomic Energy Central School, Narwapahar, Jharkhand</description>
+			<pubDate>Tue, 09 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Nagaland State Centre, National Informatics Centre (NIC)</title>
+			<link>http://nicngl.nic.in</link>
+			<guid>http://nicngl.nic.in</guid>
+			<category>Union Government</category>
+			<description>Nagaland State Centre, National Informatics Centre (NIC)</description>
+			<pubDate>Mon, 08 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>National Research Centre for Orchids (NRCO), ICAR, Sikkim</title>
+			<link>http://nrcorchids.nic.in</link>
+			<guid>http://nrcorchids.nic.in</guid>
+			<category>Union Government</category>
+			<description>National Research Centre for Orchids (NRCO), ICAR, Sikkim</description>
+			<pubDate>Mon, 08 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>High Court of Tripura, Agartala</title>
+			<link>http://thc.nic.in</link>
+			<guid>http://thc.nic.in</guid>
+			<category>Judiciary</category>
+			<description>High Court of Tripura, Agartala</description>
+			<pubDate>Mon, 08 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>North East Postal Circle, Shillong, Meghalaya</title>
+			<link>http://northeastposts.gov.in</link>
+			<guid>http://northeastposts.gov.in</guid>
+			<category>Union Government</category>
+			<description>North East Postal Circle, Shillong, Meghalaya</description>
+			<pubDate>Sat, 06 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Government College, Ghattiya, Madhya Pradesh</title>
+			<link>http://gcghattiyaujjain.nic.in</link>
+			<guid>http://gcghattiyaujjain.nic.in</guid>
+			<category>State Government</category>
+			<description>Government College, Ghattiya, Madhya Pradesh</description>
+			<pubDate>Fri, 05 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Meteorological Centre, shimla</title>
+			<link>http://weathershimla.nic.in</link>
+			<guid>http://weathershimla.nic.in</guid>
+			<category>Union Government</category>
+			<description>Meteorological Centre, shimla</description>
+			<pubDate>Fri, 05 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Krishi Vigyan Kendra (KVK), Bhaderwah, Jammu and Kashmir</title>
+			<link>http://kvkdoda.nic.in</link>
+			<guid>http://kvkdoda.nic.in</guid>
+			<category>Union Government</category>
+			<description>Krishi Vigyan Kendra (KVK), Bhaderwah, Jammu and Kashmir</description>
+			<pubDate>Fri, 05 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Himayat, Ministry of Rural Development, New Delhi</title>
+			<link>http://himayat.cgg.gov.in</link>
+			<guid>http://himayat.cgg.gov.in</guid>
+			<category>Union Government</category>
+			<description>Himayat, Ministry of Rural Development, New Delhi</description>
+			<pubDate>Wed, 03 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Consumer Education Website, IRDA, Hyderabad</title>
+			<link>http://www.policyholder.gov.in</link>
+			<guid>http://www.policyholder.gov.in</guid>
+			<category>Union Government</category>
+			<description>Consumer Education Website, IRDA, Hyderabad</description>
+			<pubDate>Wed, 03 Jul 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>The Pre-Conception and Pre-Natal Diagnostic Techniques, New Delhi</title>
+			<link>http://pndt.gov.in</link>
+			<guid>http://pndt.gov.in</guid>
+			<category>Union Government</category>
+			<description>The Pre-Conception and Pre-Natal Diagnostic Techniques, New Delhi</description>
+			<pubDate>Fri, 28 Jun 2013 12:00:00 +0530</pubDate>
+
+		</item>
+		<item>
+
+			<title>Central Police Canteen (CPC)</title>
+			<link>http://cpcmha.gov.in</link>
+			<guid>http://cpcmha.gov.in</guid>
+			<category>Union Government</category>
+			<description>Central Police Canteen (CPC)</description>
+			<pubDate>Fri, 28 Jun 2013 12:00:00 +0530</pubDate>
+
+		</item>
+	</channel>
+
+</rss>
